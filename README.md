@@ -1,42 +1,37 @@
 # Data_Visualization_Project#1
 
-In this project we are working on a dataset from Kaggle to find the reasons of flight delays in 2018 and 2018.
-The data is gathered from all US airlines.
+This project is working on a dataset from Kaggle to find the reasons of flight delays in 2018 and 2018.
+The data is gathered from all the US airlines and airports and it is not good for outside the US.
+
+### The Data
+The data is availabe at https://www.kaggle.com/sherrytp/airline-delay-analysis
+
+### The cleaning Process
+The cleaning process is accessible via "Project 1 - Data Visualization.ipynb" file
 
 ### Column meanings:
 taxing-in, taxing-out, diverting, and other delay reason columns, the unit is minutes - meaning how many minutes they spend on this delay reason
 
+### The final result is a dashboard
+The screenshot of the dashboard from Tableau is available in Dashboard.PNG
 
+### Airline codes in the dataset:
 
-### Airline codes:
-
-UA: United Airlines
-AS: Alaska Airlines
-9E: Endeavor Air
-B6: JetBlue Airline
-EV: ExpressJet Airline
-F9: Frontier Airlines
-G4: Allegiant Air
-HA: Hawaiian Airlines
-MQ: Envoy Air
-NK: Spirit Airlines
-OH: PSA Airlines
-OO: SkyWest Airlines
-VX: Virgin America
-WN: Southwest Airlines
-YV: Mesa Airlines
-YX: Republic Airways
-AA: American Airlines
-DL: Delta Air Lines
-
-
-### Cancellation codes:
-
-A: Carrier
-B: Weather
-C: NAS (National Air System) Delays or cancellations coded "NAS" are the type of weather delays that could be reduced with corrective action by the airports or the Federal Aviation Administration.
-D: Security
-
-
-CRS_ELAPSED_TIME: time on air
-AIR_TIME: taxi in + taxi out + elapsed time
+<br/>UA: United Airlines
+<br/>AS: Alaska Airlines
+<br/>9E: Endeavor Air
+<br/>B6: JetBlue Airline
+<br/>EV: ExpressJet Airline
+<br/>F9: Frontier Airlines
+<br/>G4: Allegiant Air
+<br/>HA: Hawaiian Airlines
+<br/>MQ: Envoy Air
+<br/>NK: Spirit Airlines
+<br/>OH: PSA Airlines
+<br/>OO: SkyWest Airlines
+<br/>VX: Virgin America
+<br/>WN: Southwest Airlines
+<br/>YV: Mesa Airlines
+<br/>YX: Republic Airways
+<br/>AA: American Airlines
+<br/>DL: Delta Air Lines
